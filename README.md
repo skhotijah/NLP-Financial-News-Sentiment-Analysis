@@ -1,7 +1,9 @@
 # NLP-Financial-News-Sentiment-Analysis
 
 This work tries to classifying sentiment from financial news using Combination Doc2vec and LSTM
-<img source="https://miro.medium.com/max/6656/1*99ToSc3FWZWlZ_BPcTe9zQ.png" width="400">
+
+![Test Image 1](https://miro.medium.com/max/6656/1*99ToSc3FWZWlZ_BPcTe9zQ.png)
+
 
 What is Sentimen Analysis ?
 
